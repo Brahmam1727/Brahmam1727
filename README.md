@@ -33,7 +33,7 @@ I build end-to-end data science projects covering data analysis, machine learnin
 * Built end-to-end ML pipeline to predict loan default risk
 * Performed feature engineering on multi-table credit data
 * Deployed using FastAPI and Streamlit
-  👉 **Repo:** https://github.com/your-username/HomeLoan-Default-Prediction
+  👉 **Repo:** https://github.com/Brahmam1727/Home_Loan.git
 
 ---
 
