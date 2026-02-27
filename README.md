@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm  Chiranjeevi Veera Brahmam
 
-<!--
-**Brahmam1727/Brahmam1727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Aspiring Data Analyst & Machine Learning Engineer
 
-Here are some ideas to get you started:
+I build end-to-end data science projects covering data analysis, machine learning, and model deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+* Python
+* Data vulization
+* Scikit-learn
+* SQL
+* Data Visualization
+* Machine Learning
+* FastAPI & Streamlit
+* Git & GitHub
+
+---
+
+## 🔥 Featured Projects
+
+### 🏦 Home Loan Default Prediction
+
+* Built end-to-end ML pipeline to predict loan default risk
+* Performed feature engineering on multi-table credit data
+* Deployed using FastAPI and Streamlit
+  👉 **Repo:** https://github.com/your-username/HomeLoan-Default-Prediction
+
+---
+
+### 📞 Customer Churn Prediction
+
+* Predicted telecom customer churn using ML
+* Identified key churn drivers
+* Built classification models and evaluated with ROC-AUC
+  👉 **Repo:** https://github.com/your-username/Customer-Churn-Prediction
+
+---
+
+### 🫀 Heart Disease Prediction
+
+* Built healthcare risk prediction model
+* Performed medical feature analysis
+* Compared multiple ML classifiers
+  👉 **Repo:** https://github.com/your-username/Heart-Disease-Prediction
+
+---
+
+### 🚲 Bike Rental Demand Prediction
+
+* Built regression model for demand forecasting
+* Performed seasonal and weather analysis
+  👉 **Repo:** https://github.com/your-username/Bike-Rental-Prediction
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/policherla-Brahmam
+* GitHub: https://github.com/Brahmam1727
+* Email: [policherlabrahmam@gmail.com](mailto:your-email@example.com)
+
+---
+
+⭐ Always learning and building real-world ML systems!
+
