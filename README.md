@@ -19,11 +19,13 @@ I build end-to-end data science projects covering data analysis, machine learnin
 ---
 
 ##  Featured Projects
-### Telecom_Churn_Anal
-* Built end-to-end ML pipeline to predict loan default risk
-* Performed feature engineering on multi-table credit data
-* Deployed using FastAPI and Streamlit
-  👉 **Repo:** https://github.com/Brahmam1727/
+### Telecom_Churn_Analyst
+* Built an end-to-end ML pipeline to predict telecom customer churn on 243K+ records
+* Performed data cleaning, feature engineering, and handled class imbalance using SMOTE
+* Trained Random Forest and XGBoost models to improve churn detection performance
+* Deployed real-time prediction web app using Streamlit/Flask
+👉 **Repo:** https://github.com/Brahmam1727/
+---
 ---
 
 ###  Home Loan Default Prediction
