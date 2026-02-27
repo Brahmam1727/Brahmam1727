@@ -9,19 +9,24 @@ I build end-to-end data science projects covering data analysis, machine learnin
 ## Skills
 
 * Python
-* Data vulization
-* Scikit-learn
+* MySQL 
 * SQL
 * Data Visualization
 * Machine Learning
-* FastAPI & Streamlit
 * Git & GitHub
+* MS Office
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
+### Telecom_Churn_Anal
+* Built end-to-end ML pipeline to predict loan default risk
+* Performed feature engineering on multi-table credit data
+* Deployed using FastAPI and Streamlit
+  👉 **Repo:** https://github.com/Brahmam1727/
+---
 
-### 🏦 Home Loan Default Prediction
+###  Home Loan Default Prediction
 
 * Built end-to-end ML pipeline to predict loan default risk
 * Performed feature engineering on multi-table credit data
@@ -30,7 +35,7 @@ I build end-to-end data science projects covering data analysis, machine learnin
 
 ---
 
-### 📞 Customer Churn Prediction
+###  Customer Churn Prediction
 
 * Predicted telecom customer churn using ML
 * Identified key churn drivers
@@ -39,7 +44,7 @@ I build end-to-end data science projects covering data analysis, machine learnin
 
 ---
 
-### 🫀 Heart Disease Prediction
+###  Heart Disease Prediction
 
 * Built healthcare risk prediction model
 * Performed medical feature analysis
@@ -48,7 +53,7 @@ I build end-to-end data science projects covering data analysis, machine learnin
 
 ---
 
-### 🚲 Bike Rental Demand Prediction
+###  Bike Rental Demand Prediction
 
 * Built regression model for demand forecasting
 * Performed seasonal and weather analysis
