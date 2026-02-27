@@ -24,7 +24,7 @@ I build end-to-end data science projects covering data analysis, machine learnin
 * Performed data cleaning, feature engineering, and handled class imbalance using SMOTE
 * Trained Random Forest and XGBoost models to improve churn detection performance
 * Deployed real-time prediction web app using Streamlit/Flask
-👉 **Repo:** https://github.com/Brahmam1727/
+👉 **Repo:** [https://github.com/Brahmam1727/Telecom_Churn_Analyst.git](https://github.com/Brahmam1727/Telecom_churn_Analyst.git)
 ---
 ---
 
